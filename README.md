@@ -32,7 +32,7 @@ Book.prototype.someMethod = function(arg){
 const book = new Book(value1, value2); // Instantiate
 ui.someMethod(arg); // Use prototype method
 ```
-Here's the same thing in ES6
+Here's the same thing but with ES6 classes
 ```javascript
 class UI {
   constructor(prop1,prop2){
