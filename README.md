@@ -2,7 +2,7 @@
 
 [![Practice](https://img.shields.io/badge/Practice-Javascript-yellow.svg)]() 
 
-A simple project to demonstrate syntactical differences between ES5 and ES6 classes - [View Demo]() 
+A simple project to demonstrate syntactical differences between ES5 and ES6 classes - [View Demo](https://bankole2000.github.io/booklist/) 
 
 ## What it is
 Its a simple book list app using ES5 constructors vs ES6 classes. built with: 
